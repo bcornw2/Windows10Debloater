@@ -68,6 +68,7 @@ Function DebloatBlacklist {
         "Microsoft.Office.OneNote"
         "Microsoft.Office.Sway"
         "Microsoft.OneConnect"
+        "Microsoft.MyOffice"
         "Microsoft.People"
         "Microsoft.Print3D"
         "Microsoft.RemoteDesktop"
@@ -108,6 +109,9 @@ Function DebloatBlacklist {
         "*Speed Test*"
         "*Dolby*"
         "*Windows.CBSPreview*"
+        "*WebAdvisor*"
+        "*LinkedIn*"
+        
              
         #Optional: Typically not removed but you can if you need to for some reason
         #"*Microsoft.Advertising.Xaml_10.1712.5.0_x64__8wekyb3d8bbwe*"
