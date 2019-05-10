@@ -111,6 +111,10 @@ Function DebloatBlacklist {
         "*Windows.CBSPreview*"
         "*WebAdvisor*"
         "*LinkedIn*"
+        "*LiveSafe*"
+        "*GiftBoxService*"
+        "*AsusHello*"
+        
         
              
         #Optional: Typically not removed but you can if you need to for some reason
